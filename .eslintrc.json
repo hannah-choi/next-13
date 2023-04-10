@@ -1,11 +1,6 @@
 {
     "parser": "@typescript-eslint/parser",
-<<<<<<< HEAD
     "plugins": ["@typescript-eslint", "plugin:prettier/recommended", "prettier"],
-=======
-    "plugins": ["@typescript-eslint", "prettier"],
->>>>>>> 7a9f8e8dab45508beed202fa09ab50d03194c798
-    "extends": ["plugin:@typescript-eslint/eslint-recommended", "prettier"],
     "parserOptions": {
         "ecmaFeatures": {
             "ecmaVersion": 2021,
